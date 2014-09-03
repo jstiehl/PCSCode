@@ -1,0 +1,20 @@
+Behavioral Interview Questions
+"Tell me about a time when _________."
+
+"...you encountered the problem ________.
+     Did you solve it?"
+
+"You had to ___________."
+
+"What did you learn?""
+
+"What will you do next time?"
+
+
+Tell me about a time when you disagreed with your boss's or team's direction and how did you approach it.
+
+Tell me about how you approach solving a technical problem.
+
+Look into GitHub webpage.  it is free and it works by just setting up a branch on the github repo called gh-pages and it will host your page from same server as your git hub account.
+
+checkout mediaqueri.es for design ideas.
